@@ -10,4 +10,5 @@ Write an input and create a new list item when clicking on the "Ekle" button
 
 ## Check
 Add a "checked" symbol when clicking on a list item
+
 <img src="img/checked.png" width="300">
